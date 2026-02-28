@@ -10,4 +10,3 @@ This repository contains the Constitution of Iran, structured into 14 chapters a
 Each language directory contains 14 chapter folders.
 
 ---
-*Parsed and generated from Telegram source.*
