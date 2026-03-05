@@ -1,6 +1,6 @@
 # Constitution of Iran
 
-This repository contains the Constitution of Iran, structured into 14 chapters and individual articles, separated by language.
+This repository contains a draft Constitution law for Iran, structured into 14 chapters and individual articles, separated by language.
 
 ## Table of Contents
 
