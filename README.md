@@ -1,6 +1,6 @@
 # Constitution of Iran
 
-This repository contains a draft Constitution law for Iran, structured into 14 chapters and individual articles, separated by language.
+This repository contains a draft Constitution law for Iran(prepared by Ali Ganji), structured into 14 chapters and individual articles, separated by language.
 
 ## Table of Contents
 
